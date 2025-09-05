@@ -1,5 +1,4 @@
--- CUSTOMIZED BY NIVALOS!!!
-
+-- RAYFIELD IMPROVED
 if debugX then
 	warn('Initialising Rayfield Improved')
 end
@@ -4012,5 +4011,6 @@ task.delay(4, function()
 		Main.Notice.Visible = false
 	end
 end)
+
 
 return RayfieldLibrary
