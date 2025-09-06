@@ -9,3 +9,9 @@ My job is to make sure Rayfield is as good as possible, and i wanted to develop 
 # UPDATE LOGS
 + Changed some images
 + Key system notification on correct key.
++ New themes
+
+# ALL NEW THEMES
++ "AMOLED"
++ "Purpleset"
++ "Sunset"
