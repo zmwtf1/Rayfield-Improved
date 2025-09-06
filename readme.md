@@ -13,5 +13,5 @@ My job is to make sure Rayfield is as good as possible, and i wanted to develop 
 
 # ALL NEW THEMES
 + "AMOLED"
++ "AMOLEDPurple"
 + "Purpleset"
-+ "Sunset"
