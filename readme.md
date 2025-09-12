@@ -1,4 +1,4 @@
-# Rayfield Improved V1.3.5
+# Rayfield Improved V1.4
 
 My job is to make sure Rayfield is as good as possible, and i wanted to develop this to help users!
 
@@ -8,6 +8,8 @@ My job is to make sure Rayfield is as good as possible, and i wanted to develop 
 
 # UPDATE LOGS
 + Added rich text for "Rayfield Improved"
++ Changed hardcoded "Improved" into a variable.
++ Fixed settings
 
 # ALL NEW THEMES
 + "AMOLED"
