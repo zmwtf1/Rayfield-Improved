@@ -62,7 +62,7 @@ end
 
 local requestsDisabled = true --getgenv and getgenv().DISABLE_RAYFIELD_REQUESTS
 local InterfaceBuild = '3K3W'
-local Release = "Build 1.3"
+local Release = "Build 1.4"
 local RayfieldFolder = "Rayfield " .. VersionName
 local ConfigurationFolder = RayfieldFolder.."/Configurations"
 local ConfigurationExtension = ".rfld"
@@ -4103,5 +4103,6 @@ task.delay(4, function()
 		Main.Notice.Visible = false
 	end
 end)
+
 
 return RayfieldLibrary
