@@ -1,5 +1,5 @@
 -- RAYFIELD IMPROVED
-local VersionName = "Enhanced"
+local VersionName = "Improved"
 
 if debugX then
 	warn('Initialising Rayfield ' .. VersionName)
@@ -4099,5 +4099,6 @@ task.delay(4, function()
 		Main.Notice.Visible = false
 	end
 end)
+
 
 return RayfieldLibrary
