@@ -1,4 +1,4 @@
-# Rayfield Improved V1.3
+# Rayfield Improved V1.3.5
 
 My job is to make sure Rayfield is as good as possible, and i wanted to develop this to help users!
 
@@ -7,9 +7,7 @@ My job is to make sure Rayfield is as good as possible, and i wanted to develop 
 [This](https://docs.sirius.menu/rayfield) is Rayfield's official documentation.
 
 # UPDATE LOGS
-+ Changed some images
-+ Key system notification on correct key.
-+ New themes
++ Added rich text for "Rayfield Improved"
 
 # ALL NEW THEMES
 + "AMOLED"
