@@ -1,6 +1,6 @@
 # Rayfield Improved V1.4
 
-My job is to make sure Rayfield is as good as possible, and i wanted to develop this to help users!
+My job is to make sure Rayfield is as good as possible, and I wanted to develop this to help users!
 
 # RAYFIELD DOCS!
 
